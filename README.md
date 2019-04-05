@@ -1,3 +1,3 @@
 # web-scraping-examples
 
-Web Scraping examples written in Ruby
+Web Scraping examples
